@@ -8,9 +8,8 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-
     width: auto;
-    margin: 0px;
+    margin: 8px;
     padding: 10px;
     alignment: center;
     text-align: center;
@@ -27,9 +26,7 @@ body{
     height: 225px;
 }
 section{
-    border: rgb(187, 0, 1);
-    border-style: groove;
-    border-color: rgba(177,0,2,0.33);
+    border: 1px solid lightcoral;
     border-radius: 20px;
     padding: 2px;
     margin: 10px;

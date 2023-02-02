@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94b6088-4916-439e-bca2-6d537d935b40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="d94b6088-4916-439e-bca2-6d537d935b40" name="Changes" comment="Learnig Web">
+      <change beforePath="$PROJECT_DIR$/idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/idea/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +89,23 @@
       <workItem from="1675147670041" duration="32000" />
       <workItem from="1675150658085" duration="121000" />
       <workItem from="1675152418749" duration="3272000" />
-      <workItem from="1675184593297" duration="11635000" />
+      <workItem from="1675184593297" duration="11954000" />
     </task>
+    <task id="LOCAL-00001" summary="Learnig Web">
+      <created>1675309714267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675309714267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Learnig Web">
+      <created>1675309726761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675309726761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +119,21 @@
             <State />
           </value>
         </entry>
+        <entry key="a06f70a1-1bbc-461e-958e-bde2ad2f4031">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a06f70a1-1bbc-461e-958e-bde2ad2f4031" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learnig Web" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learnig Web" />
   </component>
 </project>
