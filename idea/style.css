@@ -39,10 +39,7 @@ section{
     height: auto;
 }
 .about-div{
-    border: rgb(187, 0, 1);
-    border-style: groove;
-    border-color: rgba(177,0,2,0.33);
-    border-radius: 20px;
+    border: 1px solid lightcoral;
     padding: 2px;
     margin: 10px;
     alignment: center;
