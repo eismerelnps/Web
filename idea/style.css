@@ -1,0 +1,111 @@
+h2{
+    color: rgb(187, 0, 1);
+}
+header{
+    background-color: white;
+    border-bottom: 1px solid lightcoral;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+    width: auto;
+    margin: 0px;
+    padding: 10px;
+    alignment: center;
+    text-align: center;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right:0px ;
+    alignment: center;
+    text-align: center;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    width: auto;
+    height: 225px;
+}
+section{
+    border: rgb(187, 0, 1);
+    border-style: groove;
+    border-color: rgba(177,0,2,0.33);
+    border-radius: 20px;
+    padding: 2px;
+    margin: 10px;
+    alignment: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.71);
+    width: available;
+    height: auto;
+}
+.about-div{
+    border: rgb(187, 0, 1);
+    border-style: groove;
+    border-color: rgba(177,0,2,0.33);
+    border-radius: 20px;
+    padding: 2px;
+    margin: 10px;
+    alignment: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.71);
+    width: available;
+    height: auto;
+}
+div h4 {
+    color: rgba(175,8,0,0.85);
+}
+
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    font-style: italic;
+    background-color: lightgray;
+}
+footer{
+    vertical-align: center;
+    alignment: center;
+    text-align: center;
+    background: #fafafa;
+}
+#footerDiv1{
+    vertical-align: center;
+    align-items: center;
+    align-content: center;
+    alignment: center;
+}
+img {
+    max-width: 100%;
+}
+
+
+.header-left {
+    display: flex;
+}
+
+.header-center {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: white;
+    border: 1px solid lightcoral;
+    border-radius: 5px;
+    color: lightcoral;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+button:hover {
+    background-color: lightcoral;
+    color: white;
+    cursor: pointer;
+}
